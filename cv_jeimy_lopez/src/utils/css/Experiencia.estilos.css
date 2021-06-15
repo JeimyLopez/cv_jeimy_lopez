@@ -1,8 +1,11 @@
+body, html{
+    margin: 0px;
+}
 .container_Informacion {   
     display: flex;
-    width: 99.6%;
-    height: 820px;
-    border: 4px solid black;
+    width: 99.5%;
+    height: 600px;
+    border: 3px solid black;
     background-color: #26889D;
     justify-content: space-between;
 }
@@ -27,7 +30,7 @@
 }
 .ContainerText p{
     font-family: sans-serif;
-    font-size: 25px;
+    font-size: 22px;
     margin: 5px;
     text-align: justify;
 }
@@ -49,9 +52,9 @@
     border-radius: 15px;
     display: block;
     position: absolute;
-    width: 950px;
+    width: 400px;
     height: 218px;
-    margin-top: 390px;
+    margin-top: 280px;
     margin-left: 49%;
     text-align: justify;
 }

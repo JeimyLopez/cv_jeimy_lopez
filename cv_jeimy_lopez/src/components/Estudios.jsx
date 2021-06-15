@@ -21,8 +21,7 @@ const Estudios = () => {
                 <h2>*Bachiller Academico</h2>
                 <p>Noviembre 2020</p>
                 <p>Colegio Rafael Uribe Uribe</p>
-                <h2>*Curso en fortalecimiento 
-                de habilidades laborales 
+                <h2>*Curso en fortalecimiento de habilidades laborales 
                 con enfoque en servicio al cliente,
                 servicios hotelero y operación 
                 de computadores.</h2>
