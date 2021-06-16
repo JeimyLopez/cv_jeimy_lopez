@@ -9,9 +9,7 @@ const Habilidades = () => {
         <div className="container_Habilidades">
                 <div className="ContainerImage">
                 <Link to="/">
-                <button className="btnFoto">
                     <img src={Alejandra} alt="Alejandra" />
-                </button>
                 </Link>
                 </div>
             <div className="ContainerText">

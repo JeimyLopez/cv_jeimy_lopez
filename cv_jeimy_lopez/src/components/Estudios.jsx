@@ -8,9 +8,7 @@ const Estudios = () => {
         <div className="Container_Estudios">
                 <div className="ContainerImage">
                 <Link to="/">
-                <button className="btnFoto">
                     <img src={Alejandra} alt="Alejandra" />
-                </button>
                 </Link>
                 </div>
              <div className="ContainerText">

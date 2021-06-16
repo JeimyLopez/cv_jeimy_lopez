@@ -48,12 +48,6 @@ body, html{
     height: 60%;
     border-radius: 160px;
 }
-.btnFoto{
-    margin-left: 60px;
-    width: 130%;
-    height: 60%;
-    border-radius: 160px;
-}
 .containerBtn {
     border-radius: 15px;
     display: block;
